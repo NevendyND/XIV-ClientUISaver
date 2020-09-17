@@ -1,7 +1,7 @@
 @echo off
 :START
 ::Made by NevendyND
-echo Welcome to FF14 Client Settings Saver.
+echo Welcome to FF14 Client UI Settings Saver.
 timeout 2 > nul
 echo Please read the text carefully!
 
