@@ -16,3 +16,6 @@ Hope the Batch helps you :)
 
 I want to Improve the Batch from time to time.
 Better Text's etc
+
+
+Info: The Exe was created with: Bat_To_Exe_Converter
