@@ -12,3 +12,7 @@ The Batch copied the whole Files inside the "FINAL FANTASY XIV - A Realm Reborn"
 
 In advance, I am sorry for my poor English 
 Hope the Batch helps you :)
+
+
+I want to Improve the Batch from time to time.
+Better Text's etc
